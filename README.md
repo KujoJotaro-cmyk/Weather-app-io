@@ -7,7 +7,7 @@ This is a basic weather application that retrieves the current weather data and 
 **Features:**
 
 - Shows current weather information (temperature, description, icon) for a searched city.
-- Displays a simple text-based forecast for the upcoming days (implementation depends on chosen data source).
+- Displays a simple text-based forecast for the today.
 
 **Requirements:**
 
